@@ -1,0 +1,4 @@
+r = input("bán kính hình tròn? ")
+pi = 3.14
+s = int(r) ** 2 * 3.14
+print("diện tích hình tròn :", s)

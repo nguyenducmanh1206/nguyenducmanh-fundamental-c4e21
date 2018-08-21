@@ -3,16 +3,16 @@ b = a/100
 print(a, "(cm) = " , b , " (m)")
 c =int(input("can nang cua ban la? "))
 print(c, "(kg)")
-d = b/(a*a)
-if d<16:
+BMI = c/(b*b)
+if BMI<16:
     print("giam can nang")
-elif 16 <= d <= 18.5:
+elif 16 <= BMI <= 18.5:
     print("thieu can nang")
-elif 18.5<=25:
+elif 18.5<=BMI<=25:
     print("binh thuong")
-elif 25<d<=30:
+elif 25<BMI<=30:
     print("thua can nang")
-elif d>30:
+elif BMI>30:
     print("beo phi")
 
 

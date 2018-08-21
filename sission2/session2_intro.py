@@ -1,5 +1,5 @@
-n=8
-for i  in range(n+1):
+n =int(input("nhap gia tri"))
+for i  in range(1,n+1):
 
 
 

@@ -1,0 +1,16 @@
+name =input("nhap ten ")
+if name == "manh":
+    print("hoc sinh")
+elif name == "duc manh":
+    print("sinh vien")
+else:
+    print("https://www.youtube.com/watch?v=DWYwmTdXpqw")
+
+ 
+
+
+
+
+
+
+

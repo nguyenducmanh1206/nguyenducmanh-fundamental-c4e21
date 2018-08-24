@@ -1,5 +1,9 @@
 n =int(input("nhap gia tri "))
-print("*" *n)
+m =int(input("nhap gia tri "))
+for i in range(n ):
+
+
+    print("x" *m)
 
 
 
